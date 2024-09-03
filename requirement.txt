@@ -4,3 +4,4 @@ os
 torch
 transformers
 time
+streamlit
